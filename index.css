@@ -1,0 +1,18 @@
+body{
+    box-sizing: border-box;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: cornflowerblue;
+    text-align: center;
+    color:lightgray;
+}
+
+button {
+    padding:10px 20px ;
+    border:none;
+    font-size: larger;
+    font-weight: lighter;
+    color:lightgray;
+    background-color: rgb(85, 85, 218);
+    margin-top: 5px;
+}
